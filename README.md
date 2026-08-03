@@ -8,7 +8,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🔵 About Me
----
 | 개발자 김인현(Hyeon) 입니다.
   - 아직 배울게 많은 학생입니다.
   - 풀스택 개발자가 되는것을 목표로 삼고 있습니다.
