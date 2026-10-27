@@ -13,7 +13,7 @@
   - 풀스택 개발자가 되는것을 목표로 삼고 있습니다.
 
 ## 🌐 Activities
-- Google Developer Groups on Campus Gachon Univ. | Team Member (26.03~)
+- Google Developer Groups on Campus Gachon Univ. | Team Member (26.03 ~ 26.9)
 
 ## 🏆 Awards
 
